@@ -6,6 +6,7 @@
 🔭 :office: Sou de Recife/PE e atualmente atuo profissionalmente como suporte técnico de softwares, função na qual me mantive focado, a qual contribuiu, entre outras coisas, no desenvolvimento de minhas soft-skills como comunicação, colaboração, resolução de problemas, adaptabilidade e tratativa com o cliente/usuário final. 
 
 :school::speech_balloon: Estou no 5º período da graduação em Análise e Desenvolvimento de Sistemas. Além disso, sou residente de software na "On Board" do Porto Digital, onde participo ativamente de desafios, mentorias e projetos, os quais me fizeram evoluir soft-skills como colaboração e trabalho em equipe, comunicação efetiva e gerenciamento de tempo e priorização, além de hard-skills voltadas ao desenvolvimento web.
+
 <img src="https://github.com/dig-ie/dig-ie/assets/101150281/324a02e8-28a9-4f93-b748-352235fa4dcb" alt="codesleepdrepeat" width="120" height="120"> <img src="https://media1.tenor.com/m/FdkbSvSxI9MAAAAd/chilled-lamb-mienar.gif" alt="codesleepdrepeat" width="120" height="120">
 
 :computer::coffee: Tenho um forte foco em front-end e estou aprimorando minhas habilidades em desenvolvimento web front-end, especialmente com React, JS, TypeScript e Next.js. Estou  fazendo formações e adicionando projetos ao meu portfólio. Além disso, tenho uma base sólida em back-end, P.O.O, banco de dados e desenvolvimento de aplicações full-stack.
