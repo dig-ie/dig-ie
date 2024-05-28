@@ -14,7 +14,7 @@
 
 ### ⚡ Curiosidade: Fiz curso técnico em redes de computadores e um curso médio/longo em computação gráfica. Já fiz algumas coisas com linguagem C.
 
-![Snake animation](https://github.com/dig-ie/dig-ie/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
 
 ### Stats
 <div>
