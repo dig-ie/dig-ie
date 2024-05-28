@@ -4,7 +4,7 @@
 - 🔭 Atualmente estou trabalhando como suporte técnico de software
 - 🌱 Atualmente estou aprendendo ReactJS, TypeSript, JS, NextJS, NodeJS...
             
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+            <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original-wordmark.svg" />
             
