@@ -17,7 +17,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javasc
 <a href="https://www.linkedin.com/in/di%C3%AAgo-de-barros-760541257/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-## ⚡ Curiosidade: Fiz curso técnico em redes de computadores e um curso médio/longo em computação gráfica. Aprendi lógica de programação com linguagem C, tenho até um pequeno projeto utilizando-a.
+## ⚡ Curiosidade: Fiz curso técnico em redes de computadores e um curso médio/longo em computação gráfica. Aprendi lógica de programação com linguagem C, com a qual inclusive fiz um dos meus primeiros projetos/desafios de código.
 
 ### Stats
 <div>
