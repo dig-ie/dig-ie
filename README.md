@@ -5,7 +5,7 @@
       <img src="https://github.com/dig-ie/dig-ie/assets/101150281/d996c005-ad71-49a9-9088-3411008614a0" alt="Sua Foto" style="width: 1000px; height: auto; margin-right: 20px;">
     </td>
     <td>
-      🔭🏢 Sou de Recife/PE e atualmente atuo como suporte técnico de softwares, função que me permitiu desenvolver soft-skills como comunicação, colaboração, resolução de problemas, adaptabilidade e tratativa com o cliente/usuário final. 🏫💬 Estou no 5º período da graduação em Análise e Desenvolvimento de Sistemas e sou residente de software na "On Board" do Porto Digital. Nesta posição, participo de desafios, mentorias e projetos que aprimoram minhas habilidades de colaboração e trabalho em equipe, comunicação efetiva, gerenciamento de tempo e priorização, além de hard-skills voltadas ao desenvolvimento web.
+      🔭🏢 Sou de Recife/PE, tenho 22 anos e atualmente atuo como suporte técnico de softwares, função que me permitiu desenvolver soft-skills como comunicação, colaboração, resolução de problemas, adaptabilidade e tratativa com o cliente/usuário final. 🏫💬 Estou no 5º período da graduação em Análise e Desenvolvimento de Sistemas e sou residente de software na "On Board" do Porto Digital. Nesta posição, participo de desafios, mentorias e projetos que aprimoram minhas habilidades de colaboração e trabalho em equipe, comunicação efetiva, gerenciamento de tempo e priorização, além de hard-skills voltadas ao desenvolvimento web.
     </td>
   </tr>
 </table>
