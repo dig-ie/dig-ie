@@ -5,7 +5,7 @@
       <img src="https://github.com/dig-ie/dig-ie/assets/101150281/d996c005-ad71-49a9-9088-3411008614a0" alt="Sua Foto" style="width: 1000px; height: auto; margin-right: 20px;">
     </td>
     <td>
-      🔭🏢 Sou de Recife/PE, tenho 22 anos e atualmente atuo como suporte técnico de softwares, função que me permitiu desenvolver soft-skills como comunicação, colaboração, resolução de problemas, adaptabilidade e tratativa com o cliente/usuário final. 🏫💬 Estou no 5º período da graduação em Análise e Desenvolvimento de Sistemas e sou residente de software na "On Board" do Porto Digital. Nesta posição, participo de desafios, mentorias e projetos que aprimoram minhas habilidades de colaboração e trabalho em equipe, comunicação efetiva, gerenciamento de tempo e priorização, além de hard-skills voltadas ao desenvolvimento web.
+      🔭🏢 I'm from Recife/PE, I'm 22 years old and currently work as a software technical support, a role that has allowed me to develop soft skills such as communication, collaboration, problem-solving, adaptability, and dealing with the client/end user. 🏫💬 I'm in the 5th semester of the Analysis and Systems Development degree and I'm a software resident at "On Board" from Porto Digital. In this position, I participate in challenges, mentorships, and projects that enhance my collaboration skills, teamwork, effective communication, time management, and prioritization, as well as hard skills focused on web development.
     </td>
   </tr>
 </table>
@@ -19,7 +19,7 @@
     </td>
     <td style="vertical-align: top;">
       <div>
-        <h2>:computer: Ferramentas:</h2>
+        <h2>:computer: Tools:</h2>
         <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
         <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="40" height="40"/>
         <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original-wordmark.svg" width="40" height="40"/>
@@ -40,16 +40,16 @@
   </tr>
 </table>
 
-## 👯 Colaboração em desenvolvimento web front-end
-## 💬 Pergunte-me sobre meus projetos
+## 👯 Collaboration in front-end web development
+## 💬 Ask me about my projects
 [![Meus Projetos](https://img.shields.io/badge/Meus_Projetos-red?style=for-the-badge&logo=github&logoColor=white&labelWidth=150)](https://github.com/dig-ie?tab=repositories)
-## 📫 Contatos:
+## 📫 Contacts:
 <div>
 <a href = "mailto:debarrosdiego415@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/di%C3%AAgo-de-barros-760541257/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-## ⚡ Curiosidade: Fiz curso técnico em redes de computadores e um curso médio/longo em computação gráfica. Aprendi lógica de programação com linguagem C, com a qual inclusive fiz um dos meus primeiros projetos/desafios de código.
+## ⚡ Curiosity: I took a technical course in computer networks and a medium/long course in computer graphics. I learned programming logic with the C language, with which I even did one of my first code projects/challenges.
 
 ### Stats
 <div>
