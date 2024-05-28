@@ -1,6 +1,6 @@
 # Olá, me chamo Diêgo!
 ## Welcome, Dev Community!
-<img src="https://github.com/dig-ie/dig-ie/assets/101150281/d996c005-ad71-49a9-9088-3411008614a0" alt="codesleepdrepeat" width="280" height="280"> <img src="https://media1.tenor.com/m/pakzecn3_jgAAAAC/teamwork.gif" alt="codesleepdrepeat" width="200" height="200"> <img src="https://media1.tenor.com/m/FdkbSvSxI9MAAAAd/chilled-lamb-mienar.gif" alt="codesleepdrepeat" width="200" height="200"> 
+<img src="https://github.com/dig-ie/dig-ie/assets/101150281/d996c005-ad71-49a9-9088-3411008614a0" alt="codesleepdrepeat" width="160" height="160"> <img src="https://media1.tenor.com/m/pakzecn3_jgAAAAC/teamwork.gif" alt="codesleepdrepeat" width="160" height="160"> <img src="https://media1.tenor.com/m/FdkbSvSxI9MAAAAd/chilled-lamb-mienar.gif" alt="codesleepdrepeat" width="160" height="160"> 
 
 #### 🔭 :office: Atualmente atuo profissionalmente como suporte técnico de softwares, função que contribui, entre outras coisas, no desenvolvimento de minhas soft-skills como comunicação, colaboração, resolução de problemas, adaptabilidade e tratativa com o cliente/usuário final. 
 #### :school::speech_balloon: Estou no 5º período da graduação em Análise e Desenvolvimento de Sistemas. Além disso, sou residente de software na "On Board" do Porto Digital, onde participo ativamente de desafios, mentorias e projetos, os quais me fizeram evoluir soft-skills como colaboração e trabalho em equipe, comunicação efetiva e gerenciamento de tempo e priorização, além de hard-skills voltadas ao desenvolvimento web.
