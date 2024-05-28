@@ -1,5 +1,8 @@
-# Olá, me chamo Diêgo de Barros!
-<img src="https://github.com/dig-ie/dig-ie/assets/101150281/83f45bf8-f6df-49c0-9ff0-e50974485a7f" alt="octocat" width="300"/>
+# Olá, me chamo Diêgo de Barros!    
+<img src="https://github.com/dig-ie/dig-ie/assets/101150281/83f45bf8-f6df-49c0-9ff0-e50974485a7f" alt="octocat" width="200"/>
+a
+
+![Big Hero6 GIF]([https://media.tenor.com/images/5c4bfcf09a4089c1c38e4b0a67f4d613/tenor.gif](https://tenor.com/tuX2.gif))
 
 ## Welcome, Dev Community!
 ### 🔭 No momento, estou trabalhando como suporte técnico de software
@@ -13,8 +16,10 @@
 <a href="https://www.linkedin.com/in/di%C3%AAgo-de-barros-760541257/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 ### ⚡ Curiosidade: Fiz curso técnico em redes de computadores e um curso médio/longo em computação gráfica. Já fiz algumas coisas com linguagem C.
-### Stats
+
 ![Snake animation](https://github.com/dig-ie/dig-ie/blob/output/github-contribution-grid-snake.svg)
+
+### Stats
 <div>
 <a href="https://github.com/dig-ie">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dig-ie&layout=compact&langs_count=7&theme=dracula"/>
