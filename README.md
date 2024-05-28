@@ -2,9 +2,7 @@
 ### Welcome, Dev Community!
 <img src="https://github.com/dig-ie/dig-ie/assets/101150281/d996c005-ad71-49a9-9088-3411008614a0" alt="codesleepdrepeat" width="110" height="110"> <img src="https://media1.tenor.com/m/pakzecn3_jgAAAAC/teamwork.gif" alt="codesleepdrepeat" width="100" height="100">
 
-🔭 :office: Sou de Recife/PE e atualmente atuo profissionalmente como suporte técnico de softwares, função na qual me mantive focado, a qual contribuiu, entre outras coisas, no desenvolvimento de minhas soft-skills como comunicação, colaboração, resolução de problemas, adaptabilidade e tratativa com o cliente/usuário final. 
-
-:school::speech_balloon: Estou no 5º período da graduação em Análise e Desenvolvimento de Sistemas. Além disso, sou residente de software na "On Board" do Porto Digital, onde participo ativamente de desafios, mentorias e projetos, os quais me fizeram evoluir soft-skills como colaboração e trabalho em equipe, comunicação efetiva e gerenciamento de tempo e priorização, além de hard-skills voltadas ao desenvolvimento web.
+🔭🏢 Sou de Recife/PE e atualmente atuo como suporte técnico de softwares, função que me permitiu desenvolver soft-skills como colaboração, resolução de problemas, adaptabilidade e tratativa com o cliente/user. 🏫💬 Estou no 5º período da graduação em Análise e Desenvolvimento de Sistemas e sou residente de software na "On Board" do Porto Digital, na qual participo de desafios, mentorias e projetos que aprimoram minhas habilidades de colaboração e trabalho em equipe, comunicação efetiva, gerenciamento de tempo e priorização, além de hard-skills voltadas ao desenvolvimento web.
 
 <img src="https://github.com/dig-ie/dig-ie/assets/101150281/324a02e8-28a9-4f93-b748-352235fa4dcb" alt="codesleepdrepeat" width="120" height="120"> <img src="https://media1.tenor.com/m/FdkbSvSxI9MAAAAd/chilled-lamb-mienar.gif" alt="codesleepdrepeat" width="120" height="120">
 
