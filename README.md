@@ -1,4 +1,5 @@
-<img src="https://github.com/dig-ie/dig-ie/assets/101150281/d996c005-ad71-49a9-9088-3411008614a0" alt="codesleepdrepeat" width="160" height="160"> <img src="https://media1.tenor.com/m/pakzecn3_jgAAAAC/teamwork.gif" alt="codesleepdrepeat" width="160" height="160"> <img src="https://media1.tenor.com/m/FdkbSvSxI9MAAAAd/chilled-lamb-mienar.gif" alt="codesleepdrepeat" width="160" height="160"> 
+<img src="https://github.com/dig-ie/dig-ie/assets/101150281/d996c005-ad71-49a9-9088-3411008614a0" alt="codesleepdrepeat" width="160" height="160"> <img src="https://media1.tenor.com/m/pakzecn3_jgAAAAC/teamwork.gif" alt="codesleepdrepeat" width="160" height="160"> <img src="https://media1.tenor.com/m/FdkbSvSxI9MAAAAd/chilled-lamb-mienar.gif" alt="codesleepdrepeat" width="160" height="160"> <img src="https://github.com/dig-ie/dig-ie/assets/101150281/324a02e8-28a9-4f93-b748-352235fa4dcb" alt="codesleepdrepeat" width="160" height="160">
+
 # Olá, me chamo Diêgo!
 ## Welcome, Dev Community!
 #### 🔭 :office: Sou de Recife/PE e atualmente atuo profissionalmente como suporte técnico de softwares, função que contribui, entre outras coisas, no desenvolvimento de minhas soft-skills como comunicação, colaboração, resolução de problemas, adaptabilidade e tratativa com o cliente/usuário final. 
