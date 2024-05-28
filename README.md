@@ -1,5 +1,4 @@
-# Olá, me chamo Diêgo de Barros! <img src="https://github.com/dig-ie/dig-ie/assets/101150281/83f45bf8-f6df-49c0-9ff0-e50974485a7f" alt="octocat" width="200"/>
-
+# Olá, me chamo Diêgo! <img src="https://github.com/dig-ie/dig-ie/assets/101150281/83f45bf8-f6df-49c0-9ff0-e50974485a7f" alt="octocat" width="200"/>
 ## Welcome, Dev Community!
 ### 🔭 No momento, estou trabalhando como suporte técnico de software
 ### 🌱Atualmente estou aprendendo/praticando:
