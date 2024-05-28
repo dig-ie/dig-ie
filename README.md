@@ -1,15 +1,44 @@
-# Olá, me chamo Diêgo! 
-### Welcome, Dev Community!
-<img src="https://github.com/dig-ie/dig-ie/assets/101150281/d996c005-ad71-49a9-9088-3411008614a0" alt="codesleepdrepeat" width="110" height="110"> <img src="https://media1.tenor.com/m/pakzecn3_jgAAAAC/teamwork.gif" alt="codesleepdrepeat" width="100" height="100">
-
-🔭🏢 Sou de Recife/PE e atualmente atuo como suporte técnico de softwares, função que me permitiu desenvolver soft-skills como colaboração, resolução de problemas, adaptabilidade e tratativa com o cliente/user. 🏫💬 Estou no 5º período da graduação em Análise e Desenvolvimento de Sistemas e sou residente de software na "On Board" do Porto Digital, na qual participo de desafios, mentorias e projetos que aprimoram minhas habilidades de colaboração e trabalho em equipe, comunicação efetiva, gerenciamento de tempo e priorização, além de hard-skills voltadas ao desenvolvimento web.
-
-<img src="https://github.com/dig-ie/dig-ie/assets/101150281/324a02e8-28a9-4f93-b748-352235fa4dcb" alt="codesleepdrepeat" width="120" height="120"> <img src="https://media1.tenor.com/m/FdkbSvSxI9MAAAAd/chilled-lamb-mienar.gif" alt="codesleepdrepeat" width="120" height="120">
-
-:computer::coffee: Tenho um forte foco em front-end e estou aprimorando minhas habilidades em desenvolvimento web front-end, especialmente com React, JS, TypeScript e Next.js. Estou  fazendo formações e adicionando projetos ao meu portfólio. Além disso, tenho uma base sólida em back-end, P.O.O, banco de dados e desenvolvimento de aplicações full-stack.
-## Ferramentas:
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40"/> <img loading="lazy"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" width="60" height="60"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" width="60" height="60"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" width="60" height="60"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg" width="60" height="60"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original-wordmark.svg" width="80" height="80"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/>
+## Hello, Dev community!
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/dig-ie/dig-ie/assets/101150281/d996c005-ad71-49a9-9088-3411008614a0" alt="Sua Foto" style="width: 1000px; height: auto; margin-right: 20px;">
+    </td>
+    <td>
+      🔭🏢 Sou de Recife/PE e atualmente atuo como suporte técnico de softwares, função que me permitiu desenvolver soft-skills como comunicação, colaboração, resolução de problemas, adaptabilidade e tratativa com o cliente/usuário final. 🏫💬 Estou no 5º período da graduação em Análise e Desenvolvimento de Sistemas e sou residente de software na "On Board" do Porto Digital. Nesta posição, participo de desafios, mentorias e projetos que aprimoram minhas habilidades de colaboração e trabalho em equipe, comunicação efetiva, gerenciamento de tempo e priorização, além de hard-skills voltadas ao desenvolvimento web.
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td style="vertical-align: top;">
+      <div>
+        <img src="https://github.com/dig-ie/dig-ie/assets/101150281/324a02e8-28a9-4f93-b748-352235fa4dcb" alt="codesleepdrepeat" width="150" height="auto">
+        <img src="https://media1.tenor.com/m/FdkbSvSxI9MAAAAd/chilled-lamb-mienar.gif" alt="codesleepdrepeat" width="150" height="auto">
+      </div>
+    </td>
+    <td style="vertical-align: top;">
+      <div>
+        <h2>:computer: Ferramentas:</h2>
+        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
+        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original-wordmark.svg" width="40" height="40"/>
+        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40"/>
+        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
+        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/>
+        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" width="60" height="60"/>
+        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" width="60" height="60"/>
+        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" width="60" height="60"/>
+        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg" width="60" height="60"/>
+        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original-wordmark.svg" width="80" height="80"/>
+        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ## 👯 Colaboração em desenvolvimento web front-end
 ## 💬 Pergunte-me sobre meus projetos
