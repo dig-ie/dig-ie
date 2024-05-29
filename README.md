@@ -5,7 +5,7 @@
       <img src="https://github.com/dig-ie/dig-ie/assets/101150281/d996c005-ad71-49a9-9088-3411008614a0" alt="Sua Foto" style="width: 1000px; height: auto; margin-right: 20px;">
     </td>
     <td>
-      🔭🏢 I'm from Recife/PE, I'm 22 years old and currently, and i am passionate about programming and technology. Each project and challenge reinforces my passion for this area.  At the moment
+      🔭🏢 I'm from Recife/PE, I'm 22 years old and passionate about programming and technology. Each project and challenge reinforces my passion for this area.  At the moment
 i'm working as a software technical support, a role that has allowed me to develop soft skills such as communication, collaboration, problem-solving, adaptability, and dealing with the client/end user. 🏫💬 I'm in the 5th semester of the Analysis and Systems Development degree and I'm a software resident at "On Board" from Porto Digital. In this position, I participate in challenges, mentorships, and projects that enhance my collaboration skills, teamwork, effective communication, time management, and prioritization, as well as hard skills focused on web development.
     </td>
   </tr>
