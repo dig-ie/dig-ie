@@ -6,7 +6,7 @@
     </td>
     <td>
       🔭🏢 I'm from Recife/PE, I'm 22 years old and passionate about programming and technology. Each project and challenge reinforces my passion for this area.  At the moment
-i'm working as a software technical support, a role that has allowed me to develop soft skills such as communication, collaboration, problem-solving, adaptability, and dealing with the client/end user. 🏫💬 I'm in the 5th semester of the Analysis and Systems Development degree and I'm a software resident at "On Board" from Porto Digital. In this position, I participate in challenges, mentorships, and projects that enhance my collaboration skills, teamwork, effective communication, time management, and prioritization, as well as hard skills focused on web development.
+i'm working as a software technical support, a role that has allowed me to develop soft skills such as communication, collaboration, problem-solving, adaptability, and dealing with the client/end user. 🏫💬 I'm in the 5th semester of the Analysis and Systems Development degree and I'm a software resident at "Onboard" from Porto Digital. In this position, I participate in challenges, mentorships, and projects that enhance my collaboration skills, teamwork, effective communication, time management, and prioritization, as well as hard skills focused on web development.
     </td>
   </tr>
 </table>
