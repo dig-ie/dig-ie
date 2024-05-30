@@ -43,6 +43,8 @@ i'm working as a software technical support, a role that has allowed me to devel
 
 ## 👯 Collaboration in front-end web development
 ## 💬 Ask me about my projects
+# 🔎 See my pinned Repositories
+
 ## 📫 Contacts:
 <div>
 <a href = "mailto:debarrosdiego415@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -60,4 +62,6 @@ i'm working as a software technical support, a role that has allowed me to devel
 
 [![Meus Projetos](https://img.shields.io/badge/All_repositories-red?style=for-the-badge&logo=github&logoColor=white&labelWidth=150)](https://github.com/dig-ie?tab=repositories)
 
+
+# 🔎 Pinned repos bellow: 
 
