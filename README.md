@@ -41,7 +41,7 @@ i'm working as a software technical support, a role that has allowed me to devel
   </tr>
 </table>
 
-## 👯 Collaboration in front-end web development
+## 👯 Collaboration in web development
 ## 💬 Ask me about my projects
 # 🔎 See my pinned Repositories
 
