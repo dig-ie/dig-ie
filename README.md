@@ -42,7 +42,7 @@
 
 ## 👯 Collaboration in web development
 ## 💬 Ask me about my projects
-# 🔎 See my pinned Repositories
+# 🔎 Some stuff in my pinned repos
 
 ## 📫 Contacts:
 <div>
