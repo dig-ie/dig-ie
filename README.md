@@ -5,7 +5,7 @@
       <img src="https://github.com/dig-ie/dig-ie/assets/101150281/d996c005-ad71-49a9-9088-3411008614a0" alt="Sua Foto" style="width: 1000px; height: auto; margin-right: 20px;">
     </td>
     <td>
-🔭🏢 I'm from Recife/PE, I'm 22 years old and I'm passionate about programming and technology. Each project and challenge reinforces my passion for this area. I'm currently a junior full stack developer. 🏫💬 I completed a higher education course in systems analysis and development and did the “Onboard” technological residency at the Porto Digital technology park/pole, in which I participated in challenges, projects and mentoring that improved my skills, in addition to development, collaboration, work in team, effective communication, time management and prioritization.
+🔭🏢 I'm from Recife/PE, I'm 22 years old and I'm passionate about programming and technology. Each project and challenge further reinforces my passion for this area. I am currently a junior full stack developer. 🏫💬 I completed a higher education course in systems analysis and development and participated in the “Onboard” technological residency at the Porto Digital technology park. During this experience, I participated in challenges, projects and mentoring that improved my skills. In addition to technical development, acquire collaboration, teamwork, effective communication, time management and task prioritization skills.
     </td>
   </tr>
 </table>
