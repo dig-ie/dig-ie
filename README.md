@@ -6,7 +6,7 @@
     </td>
     <td>
       🔭🏢 I'm from Recife/PE, i'm 22 years old and passionate about programming and technology. Each project and challenge reinforces my passion for this area.  At the moment
-i'm working as a software technical support, a role that has allowed me to develop soft skills such as communication, collaboration, problem-solving, adaptability, and dealing with the client/end user. 🏫💬 I'm in the 5th semester of the Analysis and Systems Development degree and I'm a software resident at "Onboard" from Porto Digital. In this position, I participate in challenges, mentorships, and projects that enhance my collaboration skills, teamwork, effective communication, time management, and prioritization, as well as hard skills focused on web development.
+🔭🏢 I'm from Recife/PE, I'm 22 years old and I'm passionate about programming and technology. Each project and challenge reinforces my passion for this area.  I've worked in software support, and I'm currently a full stack junior developer. 🏫💬 I completed the higher education course in systems analysis and development and went to the technological "Onboard" residency at the Porto Digital park/technology hub. In this position, I participated in challenges, projects and mentoring that improved my skills, in addition to development, collaboration, teamwork, effective communication, time management and prioritization.
     </td>
   </tr>
 </table>
@@ -51,7 +51,7 @@ i'm working as a software technical support, a role that has allowed me to devel
 <a href="https://www.linkedin.com/in/di%C3%AAgo-de-barros-760541257/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-## ⚡ Curiosity: I took a technical course in computer networks and a medium/long course in computer graphics. I learned programming logic with the C language, with which I even did one of my first code projects/challenges.
+## ⚡ Curiosity: I took a technical course in computer networks and a medium/long course in computer graphics. I learned programming logic with the C language and I have also been software support.
 
 ### Stats
 <div>
