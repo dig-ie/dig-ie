@@ -52,13 +52,6 @@
 
 ## ⚡ Curiosity: I took a technical course in computer networks and a medium/long course in computer graphics. I learned programming logic with the C language and I have also been software support.
 
-### Stats
-<div>
-<a href="https://github.com/dig-ie">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dig-ie&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=dig-ie&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
 [![Meus Projetos](https://img.shields.io/badge/All_repositories-red?style=for-the-badge&logo=github&logoColor=white&labelWidth=150)](https://github.com/dig-ie?tab=repositories)
 
 
