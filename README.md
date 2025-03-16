@@ -1,13 +1,19 @@
+# 👨‍💻 Developer Profile
+
+```ts
 type Dev = { name: string; skills: string[] };
+
 class DeveloperProfile {
     constructor(private readonly developer: Dev) { }
+
     getDeveloperInfo() {
         console.log(`
             Name: ${this.developer.name}
-            Skills: ${this.developer.skills.join(", ")}`
-        )
+            Skills: ${this.developer.skills.join(", ")}
+        `);
     }
 }
+
 const devProfile = new DeveloperProfile({
     name: "Diêgo de Barros",
     skills: [
@@ -21,4 +27,5 @@ const devProfile = new DeveloperProfile({
         "FlutterFlow",
     ]
 });
+
 devProfile.getDeveloperInfo();
