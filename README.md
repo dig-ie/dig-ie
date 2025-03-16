@@ -1,21 +1,26 @@
-# Hello!
+# Hello! 🐱
 
+```csharp
 using System;
+using System.Collections.Generic;
 
 class Developer
 {
     public string Name { get; }
-    public string[] Skills { get; }
+    public List<string> Skills { get; }
 
-    public Developer(string name, params string[] skills)
+    public Developer(string name, List<string> skills)
     {
         Name = name;
         Skills = skills;
     }
 
-    public void ShowProfile()
+    public void GetDeveloperInfo()
     {
-        Console.WriteLine($"👨‍💻 {Name}\n🔹 Skills: {string.Join(", ", Skills)}");
+        Console.WriteLine($@"
+            Name: {Name}
+            Skills: {string.Join(", ", Skills)}
+        ");
     }
 }
 
@@ -23,10 +28,21 @@ class Program
 {
     static void Main()
     {
-        new Developer("Diêgo de Barros", 
-            "Software Engineering Analyst", "React", "TypeScript", 
-            "REST APIs", ".NET", "NEST", "Dart", "FlutterFlow"
-        ).ShowProfile();
+        var devProfile = new Developer(
+            "Diêgo de Barros",
+            new List<string>
+            {
+                "Software Engineering Analyst",
+                "React",
+                "TypeScript",
+                "REST APIs",
+                ".NET",
+                "NEST",
+                "Dart",
+                "FlutterFlow"
+            }
+        );
+
+        devProfile.GetDeveloperInfo();
     }
 }
-
