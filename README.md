@@ -1,4 +1,4 @@
-# 👨‍💻 Developer Profile
+# Hi, i'm Diêgo de Barros
 
 ```ts
 type Dev = { name: string; skills: string[] };
