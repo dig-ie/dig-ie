@@ -31,6 +31,9 @@ const App: React.FC = () => {
       "Git",
       "NEST",
       "Dart",
+      "SQL",
+      "Postgres",
+      "noSQL (mongodb e mongodb atlas)"
     ],
   };
 
