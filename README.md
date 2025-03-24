@@ -27,6 +27,7 @@ const App: React.FC = () => {
       "TypeScript",
       "REST APIs",
       ".NET",
+      "Git",
       "NEST",
       "Dart",
     ],
