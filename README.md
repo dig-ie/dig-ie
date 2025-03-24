@@ -23,12 +23,12 @@ const App: React.FC = () => {
     skills: [
       "Software Engineering Analyst",
       "React",
+      "FlutterFlow"
       "TypeScript",
       "REST APIs",
       ".NET",
       "NEST",
       "Dart",
-      "FlutterFlow",
     ],
   };
 
