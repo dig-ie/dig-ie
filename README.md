@@ -21,7 +21,7 @@ const App: React.FC = () => {
   const devProfile = {
     name: "Diêgo de Barros",
     skills: [
-      "Software Engineering Analyst",
+      "Full stack developer",
       "React",
       "FlutterFlow"
       "TypeScript",
