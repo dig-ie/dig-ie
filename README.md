@@ -26,6 +26,7 @@ const App: React.FC = () => {
       "FlutterFlow"
       "TypeScript",
       "REST APIs",
+      "Node.js",
       ".NET",
       "Git",
       "NEST",
