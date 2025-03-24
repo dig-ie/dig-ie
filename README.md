@@ -1,48 +1,38 @@
 # Hello! 🐱
 
-```csharp
-using System;
-using System.Collections.Generic;
+```react
+import React from "react";
 
-class Developer
-{
-    public string Name { get; }
-    public List<string> Skills { get; }
-
-    public Developer(string name, List<string> skills)
-    {
-        Name = name;
-        Skills = skills;
-    }
-
-    public void GetDeveloperInfo()
-    {
-        Console.WriteLine($@"
-            Name: {Name}
-            Skills: {string.Join(", ", Skills)}
-        ");
-    }
+interface DeveloperProps {
+  name: string;
+  skills: string[];
 }
 
-class Program
-{
-    static void Main()
-    {
-        var devProfile = new Developer(
-            "Diêgo de Barros",
-            new List<string>
-            {
-                "Software Engineering Analyst",
-                "React",
-                "TypeScript",
-                "REST APIs",
-                ".NET",
-                "NEST",
-                "Dart",
-                "FlutterFlow"
-            }
-        );
+const Developer: React.FC<DeveloperProps> = ({ name, skills }) => {
+  return (
+    <div style={{ padding: "20px", fontFamily: "Arial" }}>
+      <h2>Name: {name}</h2>
+      <p>Skills: {skills.join(", ")}</p>
+    </div>
+  );
+};
 
-        devProfile.GetDeveloperInfo();
-    }
-}
+const App: React.FC = () => {
+  const devProfile = {
+    name: "Diêgo de Barros",
+    skills: [
+      "Software Engineering Analyst",
+      "React",
+      "TypeScript",
+      "REST APIs",
+      ".NET",
+      "NEST",
+      "Dart",
+      "FlutterFlow",
+    ],
+  };
+
+  return <Developer name={devProfile.name} skills={devProfile.skills} />;
+};
+
+export default App;
