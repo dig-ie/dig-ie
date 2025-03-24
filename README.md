@@ -1,6 +1,6 @@
 # Hello! 🐱
 
-```react
+```tsx
 import React from "react";
 
 interface DeveloperProps {
@@ -36,3 +36,4 @@ const App: React.FC = () => {
 };
 
 export default App;
+```
