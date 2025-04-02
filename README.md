@@ -23,16 +23,16 @@ const App: React.FC = () => {
     skills: [
       "Full stack developer",
       "React",
+      "React Native",
       "FlutterFlow"
       "TypeScript",
       "REST APIs",
       "Node.js",
+      "NESTJS",
       ".NET",
       "Git",
-      "NEST",
       "Dart",
-      "SQL",
-      "Postgres",
+      "PostgreSQL",
       "noSQL (mongodb e mongodb atlas)"
     ],
   };
