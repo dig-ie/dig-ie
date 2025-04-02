@@ -1,52 +1,51 @@
-# Hello! 🐱
+# Olá! 🐱
 
 ```tsx
 import React from "react";
 
-interface DeveloperProps {
-  name: string;
-  skills: string[];
+interface DesenvolvedorProps {
+  nome: string;
+  habilidades: string[];
 }
 
-const Developer: React.FC<DeveloperProps> = ({ name, skills }) => {
+const Desenvolvedor: React.FC<DesenvolvedorProps> = ({ nome, habilidades }) => {
   return (
     <div style={{ padding: "20px", fontFamily: "Arial" }}>
-      <h2>Name: {name}</h2>
-      <p>Skills: {skills.join(", ")}</p>
+      <h2>Nome: {nome}</h2>
+      <p>Habilidades: {habilidades.join(", ")}</p>
     </div>
   );
 };
 
-const App: React.FC = () => {
-  const devProfile = {
-    name: "Diêgo de Barros",
-    "skills": [
-  "Full Stack Developer",
-  "React",
-  "React Native",
-  "FlutterFlow",
-  "TypeScript",
-  "REST APIs",
-  "GraphQL",
-  "Node.js",
-  "NestJS",
-  ".NET",
-  "Git",
-  "GitHub",
-  "Dart",
-  "PostgreSQL",
-  "MySQL",
-  "NoSQL (MongoDB, MongoDB Atlas, Redis)",
-  "AWS (Lambda, S3, DynamoDB)",
-  "GCP",
-  "Supabase",
-  "Docker",
-  "CI/CD (GitHub Actions, Vercel)"
-],
+const Aplicacao: React.FC = () => {
+  const perfilDesenvolvedor = {
+    nome: "Diêgo de Barros",
+    habilidades: [
+      "Desenvolvedor Full Stack",
+      "React",
+      "React Native",
+      "FlutterFlow",
+      "TypeScript",
+      "APIs REST",
+      "GraphQL",
+      "Node.js",
+      "NestJS",
+      ".NET",
+      "Git",
+      "GitHub",
+      "Dart",
+      "PostgreSQL",
+      "MySQL",
+      "NoSQL (MongoDB, MongoDB Atlas, Redis)",
+      "AWS (Lambda, S3, DynamoDB)",
+      "GCP",
+      "Supabase",
+      "Docker",
+      "CI/CD (GitHub Actions, Vercel)"
+    ],
   };
 
-  return <Developer name={devProfile.name} skills={devProfile.skills} />;
+  return <Desenvolvedor nome={perfilDesenvolvedor.nome} habilidades={perfilDesenvolvedor.habilidades} />;
 };
 
-export default App;
-```
+export default Aplicacao;
