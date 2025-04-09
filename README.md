@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Diêgo de Barros 👋</h1>
+<h1 align="center">Oi, meu nome é Diêgo de Barros 👋</h1>
 
 <p align="center">
   <strong>Desenvolvedor Full Stack</strong><br/>
