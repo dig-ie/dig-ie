@@ -52,14 +52,6 @@ Sou um desenvolvedor Full Stack com 2 anos de experiência em aplicações **web
 
 ---
 
-### 📱 Projeto em Destaque
-
-**Hotel Booking App** (em desenvolvimento)  
-🛏️ Sistema híbrido (web/mobile) de reservas de hotéis com autenticação JWT, interface responsiva e deploy automatizado.  
-🔗 Veja o front-end em: [github.com/dig-ie](https://github.com/dig-ie)
-
----
-
 ### 🌍 Idiomas
 
 - 🇧🇷 Português – Nativo  
