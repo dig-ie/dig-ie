@@ -30,12 +30,12 @@ Sou um desenvolvedor Full Stack com 2 anos de experiência em aplicações **web
 
 ### 💼 Experiências Recentes
 
-**Wee.BT** – Desenvolvedor Full Stack (Jun 2023 – Mar 2025)  
+**Wee.BT** – Desenvolvedor Full Stack
 ✔️ Melhoria de UI/UX, refatoração de fluxos críticos  
 ✔️ Otimização de APIs e banco de dados  
 ✔️ Implementações de segurança e prevenção de fraudes  
 
-**WAtendimento** – Desenvolvedor Backend (Dez 2024 – Fev 2025)  
+**WAtendimento** – Desenvolvedor Backend
 ✔️ Desenvolvimento de chatbots e automação de atendimento via WhatsApp  
 ✔️ Integração com CRM e fluxos internos automatizados  
 
