@@ -64,9 +64,3 @@ Sou um desenvolvedor Full Stack com 2 anos de experiência em aplicações **web
 - 📧 debarrosdiego415@gmail.com  
 - 📱 (81) 9 8853-2136  
 - 💼 [LinkedIn](https://www.linkedin.com/in/seu-link-aqui) | 🐙 [GitHub](https://github.com/dig-ie)
-
----
-
-<p align="center">
-  🔎 Em busca de novos desafios. Vamos conversar?
-</p>
