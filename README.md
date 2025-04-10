@@ -36,7 +36,8 @@ Sou um desenvolvedor Full Stack com 2 anos de experiência em aplicações **web
 ✔️ Implementações de segurança e prevenção de fraudes  
 
 **WAtendimento** – Desenvolvedor Backend
-✔️ Desenvolvimento de chatbots e automação de atendimento via WhatsApp  
+✔️ Desenvolvimento de chatbots e automação de atendimento via WhatsApp
+✔️ Integrações em ambientes cloud 
 ✔️ Integração com CRM e fluxos internos automatizados  
 
 **Freelancer** - Desenvolvedor  
