@@ -39,7 +39,7 @@ Sou um desenvolvedor Full Stack com 2 anos de experiência em aplicações **web
 ✔️ Desenvolvimento de chatbots e automação de atendimento via WhatsApp  
 ✔️ Integração com CRM e fluxos internos automatizados  
 
-**Freelancer** (2022 – Atual)  
+**Freelancer** - Desenvolvedor  
 ✔️ Web & mobile apps, casas esportivas, automações para e-commerces e CRMs
 
 ---
