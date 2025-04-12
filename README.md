@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Desenvolvedor Full Stack</strong><br/>
-  Especialista em Apps híbridos | <code>Next.js</code> | <code>Node.js</code> | <code>Cloud Computing</code>
+  Especialista em <code>Apps híbridos</code> | <code>Next.js</code> | <code>Node.js</code> | <code>Cloud Computing</code>
 </p>
 
 ---
