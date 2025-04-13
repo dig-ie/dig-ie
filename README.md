@@ -11,7 +11,7 @@
 
 Sou um desenvolvedor Full Stack com 2 anos de experiência em aplicações **web e mobile**, focado em performance, escalabilidade e experiências intuitivas. Já atuei em projetos de grande impacto, desde o zero até a otimização de sistemas existentes — sempre buscando a melhor experiência para o usuário e a eficiência para o time.
 
-- 💻 Stack principal: `React`, `Next.js`, `Node.js/Nest`, `TypeScript`
+- 💻 Stack principal: `Next.js`, `React`,  `Node.js/Nest`, `TypeScript`
 - ☁️ Cloud: `GCP`, `AWS`, `Serverless`, `Supabase`, `Firebase`
 - 🔄 CI/CD, Microsserviços e Clean Architecture
 - 📈 Otimização de performance, automações e segurança
