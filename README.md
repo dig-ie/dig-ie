@@ -21,7 +21,7 @@ Sou um desenvolvedor Full Stack com 2 anos de experiência em aplicações **web
 ### 🛠️ Tecnologias & Ferramentas
 
 **Front-end**: React, React Native, Next.js, TypeScript, Styled Components, Tailwind, RN StyleSheet
-**Back-end**: Node.js, Express, NestJS 
+**Back-end**: Node.js, Express, NestJS
 **Banco de Dados**: PostgreSQL, MySQL, MongoDB, Redis  
 **Cloud & DevOps**: GCP, AWS, Docker, Supabase, Firebase, GitHub Actions  
 **Testes & Outras**: Jest, Cypress, Git, Agile, SOLID, Clean Architecture  
