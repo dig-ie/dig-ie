@@ -23,6 +23,5 @@
 ### 🌐 Me encontre por aí
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diêgodebarros)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/dig-ie)  
-📬 debarrosdiego415@gmail.com  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/dig-ie)   
 📱 (81) 9 8853-2136
