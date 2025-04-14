@@ -11,17 +11,18 @@
 
 ### 🚀 Stack e Interesses
 
-💻 <strong>Front:</strong> React, Next.js, Tailwind, Styled Components  
-🧠 <strong>Back:</strong> Node.js, NestJS, PostgreSQL, MongoDB  
+💻 <strong>Front:</strong> React, Next.j, React-Native, Flutterflow, Tailwind, Styled Components
+🧠 <strong>Back:</strong> Node.js, NestJS, .NET, PostgreSQL, MySQL, MongoDB  
 ☁️ <strong>Cloud:</strong> GCP, AWS, Firebase, Supabase  
-🧪 <strong>Testes:</strong> Jest, Cypress  
+🧪 <strong>Testes:</strong> Jest, Cypress
+🔧 <strong>Mensageria:</strong> RabbitMQ, Kafka...
 🔧 <strong>Outros:</strong> GitHub Actions, Docker, Clean Architecture  
 
 ---
 
 ### 🌐 Me encontre por aí
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-link-aqui)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diêgodebarros)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/dig-ie)  
 📬 debarrosdiego415@gmail.com  
 📱 (81) 9 8853-2136
