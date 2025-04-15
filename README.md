@@ -1,27 +1,33 @@
-<h1 align="left">Diêgo de Barros 👾</h1>
 
-<p align="left">
-  Desenvolvedor <strong>Full Stack</strong> apaixonado por tecnologia, performance e experiências reais.<br/>
-  Especializado em <code>React/Next.js</code> • <code>Mobile e Web</code> • <code>React Native</code> • <code>Node.js</code> • <code>.NET</code> • <code>Cloud</code>
-</p>
+# Diêgo de Barros 👾
 
-<img align="right" src="https://i.pinimg.com/originals/39/8b/18/398b1867cda8dc774d3ff7f7960ee85b.gif" width="300"/>
+## Desenvolvedor Full Stack
 
----
+Sou um desenvolvedor Full Stack apaixonado por transformar ideias em soluções reais. Trabalho com tecnologias de ponta para criar experiências que não apenas funcionam, mas também encantam.
 
-### 🚀 Stack e Interesses
+### O que me move?
 
-💻 <strong>Front:</strong> React, Next.js, React-Native, Flutterflow, Tailwind, Styled Components</br>
-🧠 <strong>Back:</strong> Node.js, NestJS, .NET, PostgreSQL, MySQL, MongoDB </br>
-☁️ <strong>Cloud:</strong> GCP, AWS, Firebase, Supabase </br> 
-🧪 <strong>Testes:</strong> Jest, Cypress</br>
-🔧 <strong>Mensageria:</strong> RabbitMQ, Kafka...</br>
-🔧 <strong>Outros:</strong> GitHub Actions, Docker, Clean Architecture  </br>
+A paixão pela tecnologia e a curiosidade incessante por entender como as coisas funcionam são o que me impulsionam todos os dias. Cada linha de código que escrevo tem o objetivo de resolver problemas reais, impactando positivamente as pessoas e os negócios. Acredito que, quando você ama o que faz, a excelência vem naturalmente e o impacto se torna inevitável.
 
----
+Sou especializado em **React/Next.js**, **Node.js**, **React Native**, **.NET**, e uma infinidade de outras tecnologias, mas o que mais me importa é a missão que cada projeto me proporciona. Tenho experiência em arquiteturas escaláveis, microserviços, e estou sempre em busca de inovar, construir e otimizar.
+
+### 🚀 Stack e Tecnologias
+
+💻 **Front-end:** React, Next.js, React-Native, Flutterflow, Tailwind, Styled Components  
+🧠 **Back-end:** Node.js, NestJS, .NET, PostgreSQL, MySQL, MongoDB  
+☁️ **Cloud:** GCP, AWS, Firebase, Supabase  
+🧪 **Testes:** Jest, Cypress  
+🔧 **Mensageria:** RabbitMQ, Kafka  
+🔧 **Outros:** GitHub Actions, Docker, Clean Architecture  
 
 ### 🌐 Me encontre por aí
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diêgodebarros)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/dig-ie)   
+[LinkedIn](https://www.linkedin.com/in/diêgodebarros)  
+[GitHub](https://github.com/dig-ie)  
 📱 (81) 9 8853-2136
+
+## Vamos transformar negócios e vidas com software
+
+A verdadeira inovação surge quando tecnologia e propósito se encontram. Vamos conversar. Juntos, podemos construir soluções que realmente fazem a diferença.
+
+**Me chama, vamos bater um papo e transformar o futuro!**
