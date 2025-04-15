@@ -11,12 +11,12 @@
 
 ### 🚀 Stack e Interesses
 
-💻 <strong>Front:</strong> React, Next.j, React-Native, Flutterflow, Tailwind, Styled Components
-🧠 <strong>Back:</strong> Node.js, NestJS, .NET, PostgreSQL, MySQL, MongoDB  
-☁️ <strong>Cloud:</strong> GCP, AWS, Firebase, Supabase  
-🧪 <strong>Testes:</strong> Jest, Cypress
-🔧 <strong>Mensageria:</strong> RabbitMQ, Kafka...
-🔧 <strong>Outros:</strong> GitHub Actions, Docker, Clean Architecture  
+💻 <strong>Front:</strong> React, Next.js, React-Native, Flutterflow, Tailwind, Styled Components</br>
+🧠 <strong>Back:</strong> Node.js, NestJS, .NET, PostgreSQL, MySQL, MongoDB </br>
+☁️ <strong>Cloud:</strong> GCP, AWS, Firebase, Supabase </br> 
+🧪 <strong>Testes:</strong> Jest, Cypress</br>
+🔧 <strong>Mensageria:</strong> RabbitMQ, Kafka...</br>
+🔧 <strong>Outros:</strong> GitHub Actions, Docker, Clean Architecture  </br>
 
 ---
 
