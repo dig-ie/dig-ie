@@ -2,7 +2,7 @@
 
 <p align="left">
   Desenvolvedor <strong>Full Stack</strong> apaixonado por tecnologia, performance e experiências reais.<br/>
-  Especializado em <code>React/Next.js</code> • <code>Mobile e Web</code> • <code>Node.js</code> • <code>.NET</code> • <code>Cloud</code>
+  Especializado em <code>React/Next.js</code> • <code>Mobile e Web</code> • <code>React Native</code> • <code>Node.js</code> • <code>.NET</code> • <code>Cloud</code>
 </p>
 
 <img align="right" src="https://i.pinimg.com/originals/39/8b/18/398b1867cda8dc774d3ff7f7960ee85b.gif" width="300"/>
