@@ -13,8 +13,8 @@ Sou especializado em **React/Next.js**, **Node.js**, **React Native**, **.NET**,
 
 ### 🚀 Stack e Tecnologias
 
-💻 **Front-end:** React, Next.js, React-Native, Flutterflow, Tailwind, Styled Components  
-🧠 **Back-end:** Node.js, NestJS, .NET, PostgreSQL, MySQL, MongoDB  
+💻 **Front-end:** Javascript, Typescript, React, Next.js, React-Native, Flutterflow, Tailwind, Styled Components  
+🧠 **Back-end:** Node.js, NestJS, .NET, Java, PostgreSQL, MySQL, MongoDB  
 ☁️ **Cloud:** GCP, AWS, Firebase, Supabase  
 🧪 **Testes:** Jest, Cypress  
 🔧 **Mensageria:** RabbitMQ, Kafka  
