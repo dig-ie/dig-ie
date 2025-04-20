@@ -1,33 +1,17 @@
 
-# Diêgo de Barros 👾
+# 🚀 Stack e Tecnologias
 
-## Desenvolvedor Full Stack
+## 💻 Front-end  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  ![Flutterflow](https://img.shields.io/badge/Flutterflow-7B61FF?style=for-the-badge&logo=flutter&logoColor=white)  ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
-Sou um desenvolvedor Full Stack apaixonado por transformar ideias em soluções reais. Trabalho com tecnologias de ponta para criar experiências que não apenas funcionam, mas também encantam.
+## 🧠 Back-end  
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-005E87?style=for-the-badge&logo=mysql&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### O que me move?
+## ☁️ Cloud  
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-A paixão pela tecnologia e a curiosidade incessante por entender como as coisas funcionam são o que me impulsionam todos os dias. Cada linha de código que escrevo tem o objetivo de resolver problemas reais, impactando positivamente as pessoas e os negócios. Acredito que, quando você ama o que faz, a excelência vem naturalmente e o impacto se torna inevitável.
+## 🧪 Testes  
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 
-Sou especializado em **React/Next.js**, **Node.js**, **React Native**, **.NET**, e uma infinidade de outras tecnologias, mas o que mais me importa é a missão que cada projeto me proporciona. Tenho experiência em arquiteturas escaláveis, microserviços, e estou sempre em busca de inovar, construir e otimizar.
-
-### 🚀 Stack e Tecnologias
-
-💻 **Front-end:** Javascript, Typescript, React, Next.js, React-Native, Flutterflow, Tailwind, Styled Components  
-🧠 **Back-end:**  .NET, ASP NET, Node.js, NestJS, Java, PostgreSQL, MySQL, MongoDB  
-☁️ **Cloud:** GCP, AWS, Firebase, Supabase  
-🧪 **Testes:** Jest, Cypress  
-🔧 **Mensageria:** RabbitMQ, Kafka  
-🔧 **Outros:** GitHub Actions, Docker, Clean Architecture  
-
-### 🌐 Me encontre por aí
-
-[LinkedIn](https://www.linkedin.com/in/diêgodebarros)  
-[GitHub](https://github.com/dig-ie)  
-📱 (81) 9 8853-2136
-
-## Vamos transformar negócios e vidas com software
-
-A verdadeira inovação surge quando tecnologia e propósito se encontram. Vamos conversar. Juntos, podemos construir soluções que realmente fazem a diferença.
-
-**Me chama, vamos bater um papo e transformar o futuro!**
+## 🔧 Outros  
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
