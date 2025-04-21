@@ -9,12 +9,9 @@
 ### 💻 Front-end  
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
 - ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
+- ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)  
+- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)  
 - ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)  
-
-</td>
-<td align="left" valign="top">
-
-### 💻 Front-end (cont.)  
 - ![Flutterflow](https://img.shields.io/badge/Flutterflow-7B61FF?style=flat&logo=flutter&logoColor=white)  
 - ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)  
 - ![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=flat&logo=styled-components&logoColor=white)  
@@ -42,10 +39,15 @@
 </td>
 <td align="left" valign="top">
 
-### 🧪 Testes & Outros  
+### 🧪 Testes  
 - ![xUnit](https://img.shields.io/badge/xUnit.net-512BD4?style=flat&logo=.net&logoColor=white)  
 - ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)  
 - ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)  
+
+</td>
+<td align="left" valign="top">
+
+### 🔧 Outros  
 - ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)  
 - ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)  
 - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
