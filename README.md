@@ -1,6 +1,6 @@
 <div align="center" style="background-color:#0d1117; padding: 20px; border-radius: 8px;">
 
-## 🚀 Stack e Tecnologias
+### 🚀 Stack e Tecnologias
 
 <table align="center">
   <tr>
