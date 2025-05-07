@@ -5,10 +5,11 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,next,tailwind,sass,nodejs,express,nest,vue,docker,figma,github,jest,materialui,linux,postman,styledcomponents,vercel,vite,bootstrap,mongodb,postgres,discord,linkedin,instagram" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,dart,html,css,react,nextjs,angular,flutter,nodejs,express,nestjs,dotnet,java,postgres,mysql,mongodb,redis,docker,aws,gcp,vercel,vscode,git,jest,figma,linux,prisma,postman,vite" />
   </a>
-  <br />
+  <p><strong>+ FlutterFlow</strong></p>
 </div>
+
 
 ##
 
