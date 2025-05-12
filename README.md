@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,dart,html,css,react,nextjs,angular,nodejs,express,nestjs,dotnet,java,postgres,mysql,mongodb,redis,docker,aws,gcp,vercel,vscode,git,jest,figma,linux,prisma,postman,vite" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,dart,html,css,react,nextjs,nodejs,express,nestjs,dotnet,java,postgres,mysql,mongodb,redis,docker,aws,gcp,vercel,vscode,git,jest,figma,linux,prisma,postman,vite" />
   </a>
   <p><strong>+ FlutterFlow</strong></p>
 </div>
