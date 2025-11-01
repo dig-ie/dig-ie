@@ -17,12 +17,6 @@
 </div>
 -->
 
-<br/>
-Acesse meu portfólio em: 
-<a href="https://gitfollio.vercel.app/dig-ie"> 🔗
-  https://gitfollio.vercel.app/dig-ie
-</a>
-
 
 <!-- GitFolio:start
 {
