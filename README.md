@@ -11,7 +11,7 @@
 
 ##
 ## 🏆 GitHub
-![](https://github-profile-trophy.vercel.app/?username=dig-ie&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=dig-ie&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 <!--
 <div align="center">
