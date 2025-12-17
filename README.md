@@ -19,7 +19,7 @@ Desenvolvedor Full Stack | Especializando em Java
 
 
 ## Sobre
-Desenvolvedor full stack em transição para especialização em Java. 
+Desenvolvedor full stack especializando-se em Java. 
 Focado em backend robusto, APIs e sistemas escaláveis.
 
 ---
