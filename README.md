@@ -1,11 +1,22 @@
+<!-- HEADER -->
 # Diêgo de Barros Ferreira
 Desenvolvedor Full Stack | Especializando em Java
 
-📍 Recife-PE | 📧 contato.diegoferreira.dev@gmail.com
+📍 Recife-PE • 📧 contato.diegoferreira.dev@gmail.com • 
+[LinkedIn](https://www.linkedin.com/in/diegodbf/) • [GitHub](https://github.com/dig-ie)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=dig-ie&theme=tokyonight&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<!-- BADGES (STACK PRINCIPAL) -->
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dig-ie&theme=transparent)
 
 ---
+
 
 ## Sobre
 Desenvolvedor full stack em transição para especialização em Java. 
