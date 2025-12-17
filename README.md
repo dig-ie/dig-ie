@@ -26,10 +26,10 @@ Focado em backend robusto, APIs e sistemas escaláveis.
 
 ## Tecnologias
 
-**Backend:** Java, Spring Boot, JPA/Hibernate
-**Frontend:** JavaScript, React, HTML/CSS
-**Banco de Dados:** PostgreSQL, MySQL
-**Ferramentas:** Git, Docker, Maven
+- **Backend:** Java, Spring Boot, JPA/Hibernate
+- **Frontend:** JavaScript, React, HTML/CSS
+- **Banco de Dados:** PostgreSQL, MySQL
+- **Ferramentas:** Git, Docker, Maven
 
 ---
 
@@ -47,7 +47,8 @@ Tecnologias: React, Node.js, MongoDB
 
 ## Formação
 - **Graduação** - Superior em Análise e Desenvolvimento de Sistemas
-- **Residência tech** - Embarque Digital - Residência Tecnológica - Porto Digital
+- **Programa de Residência Tecnológica** — Embarque Digital (Porto Digital), 
+  integrado à graduação em ADS, com foco em formação prática e projetos reais (2,5 anos).
 - **Curso/Treinamento** - Formação Javascript Developer - DIO
 - **Curso/Treinamento** - Formação React Developer - DIO
 - **Curso/Treinamento** - Programação Orientada a Objetos com Java
