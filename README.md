@@ -49,6 +49,7 @@ Tecnologias: React, Node.js, MongoDB
 - **Graduação** - Superior em Análise e Desenvolvimento de Sistemas
 - **Programa de Residência Tecnológica** — Embarque Digital (Porto Digital), 
   integrado à graduação em ADS, com foco em formação prática e projetos reais (2,5 anos).
+- **Curso Técnico** - Técnico em Redes de Computadores - ETE
 - **Curso/Treinamento** - Formação Javascript Developer - DIO
 - **Curso/Treinamento** - Formação React Developer - DIO
 - **Curso/Treinamento** - Programação Orientada a Objetos com Java
