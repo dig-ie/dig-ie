@@ -23,10 +23,4 @@
 
 </p>
 
-###
-
-<img src="https://raw.githubusercontent.com/dbfcode/dbfcode/output/snake.svg" alt="Snake animation" />
-
-###
-
 
