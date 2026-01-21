@@ -2,7 +2,7 @@
 
 | | |
 |---|---|
-| [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=0&color=58A6FF&center=false&vCenter=false&multiline=true&width=460&height=120&lines=Java+%7C+Spring+Boot+%7C+APIs+Escaláveis;Back-end+first+mindset;Clean+Code+%7C+Arquitetura+%7C+Performance&lineHeight=32)](https://git.io/typing-svg) | <p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dbfcode&theme=github_dark" /></p> |
+| [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3800&pause=10&color=58A6FF&center=false&vCenter=false&multiline=true&width=460&height=120&lines=Java+%7C+Spring+Boot+%7C+APIs+Escaláveis;Back-end+first+mindset;Clean+Code+%7C+Arquitetura+%7C+Performance&lineHeight=32)](https://git.io/typing-svg) | <p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dbfcode&theme=github_dark" /></p> |
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
