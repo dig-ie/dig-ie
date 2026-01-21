@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=140&section=header&text=Diêgo%20Ferreira&fontSize=38&fontColor=c9d1d9)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=false&vCenter=false&multiline=true&width=700&height=120&lines=Java+%7C+Spring+Boot+%7C+APIs+Escaláveis;Back-end+first+mindset;Clean+Code+%7C+Arquitetura+%7C+Performance&lineHeight=32)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=0&color=58A6FF&center=false&vCenter=false&multiline=true&width=700&height=120&lines=Java+%7C+Spring+Boot+%7C+APIs+Escaláveis;Back-end+first+mindset;Clean+Code+%7C+Arquitetura+%7C+Performance&lineHeight=32)](https://git.io/typing-svg)
 <picture>
   <source media="(prefers-color-scheme: dark)"
           srcset="https://raw.githubusercontent.com/its-just-me-myself-and-i/its-just-me-myself-and-i--1/output/github-contribution-grid-snake-dark.svg">
