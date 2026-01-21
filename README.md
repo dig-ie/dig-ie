@@ -2,12 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=false&vCenter=false&multiline=true&width=700&height=120&lines=Java+%7C+Spring+Boot+%7C+APIs+Escaláveis;Back-end+first+mindset;Clean+Code+%7C+Arquitetura+%7C+Performance&lineHeight=32)](https://git.io/typing-svg)
 
-
-
-
-**Construindo backends robustos com Java, Spring e arquitetura limpa**
-
-
 📍 Recife-PE • 📧 contato.diegoferreira.dev@gmail.com  
 [LinkedIn](https://www.linkedin.com/in/diegodbf/) • [GitHub](https://github.com/dbfcode)
 
