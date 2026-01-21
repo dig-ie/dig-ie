@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=140&width=1200&section=header&text=Diêgo%20Ferreira&fontSize=38&fontColor=c9d1d9)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=140&width=1200&section=header&text=Diêgo%20Ferreira&fontSize=38&fontColor=D32F2F)
 
 | | |
 |---|---|
-| [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3800&pause=10&color=58A6FF&center=false&vCenter=false&multiline=true&width=460&height=120&lines=Java+%7C+Spring+Boot+%7C+APIs+Escaláveis;Back-end+first+mindset;Clean+Code+%7C+Arquitetura+%7C+Performance&lineHeight=32)](https://git.io/typing-svg) | <p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dbfcode&theme=github_dark" /></p> |
+| [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3800&pause=10&color=FF4500&center=false&vCenter=false&multiline=true&width=460&height=120&lines=Java+%7C+Spring+Boot+%7C+APIs+Escaláveis;Back-end+first+mindset;Clean+Code+%7C+Arquitetura+%7C+Performance&lineHeight=32)](https://git.io/typing-svg) | <p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dbfcode&theme=github_dark" /></p> |
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
