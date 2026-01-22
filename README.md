@@ -39,7 +39,7 @@
 ![Scrum](https://img.shields.io/badge/-Scrum-000000?style=for-the-badge&logo=scrumalliance&logoColor=ffffff&labelColor=000000)
 ![Kanban](https://img.shields.io/badge/-Kanban-000000?style=for-the-badge&logo=kanban&logoColor=ffffff&labelColor=000000)
 
-![3D Contributions](https://raw.githubusercontent.com/its-just-me-myself-and-i/its-just-me-myself-and-i--1/main/profile-3d-contrib/profile-gitblock.svg)
+![3D Contributions](https://raw.githubusercontent.com/its-just-me-myself-and-i/dbfcode/main/profile-3d-contrib/profile-gitblock.svg)
 
 
 <!--
