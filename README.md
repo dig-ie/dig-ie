@@ -1,11 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=10&color=ED8B00&width=500&lines=Hello!+My+name+is+Di%C3%AAgo!;Ol%C3%A1!+Meu+nome+%C3%A9+Di%C3%AAgo!;Sou+desenvolvedor+back-end;I'm+a+back-end+Dev)](https://git.io/typing-svg)
 
+
+
 ## Linguagens principais / Main stack
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=ffffff&labelColor=ED8B00)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=ffffff&labelColor=339933)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff&labelColor=3178C6)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000000&labelColor=61DAFB)
 ![Spring%20Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=ffffff&labelColor=6DB33F)
+
 
 ## Ferramentas / Tools
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-087CFA?style=for-the-badge&logo=intellij-idea&logoColor=ffffff&labelColor=087CFA)
@@ -36,7 +39,10 @@
 ![Scrum](https://img.shields.io/badge/-Scrum-000000?style=for-the-badge&logo=scrumalliance&logoColor=ffffff&labelColor=000000)
 ![Kanban](https://img.shields.io/badge/-Kanban-000000?style=for-the-badge&logo=kanban&logoColor=ffffff&labelColor=000000)
 
+![3D Contributions](https://raw.githubusercontent.com/its-just-me-myself-and-i/its-just-me-myself-and-i--1/main/profile-3d-contrib/profile-gitblock.svg)
 
+
+<!--
 <table>
   <tr>
     <td width="80">
@@ -47,9 +53,8 @@
       Desenvolvedor Full Stack movido pela busca de <strong>código limpo, eficiente e padronizado</strong>. Curto estruturar soluções robustas e escaláveis, sempre com atenção a <strong>performance, boas práticas e manutenibilidade</strong>. Trabalho tanto com backend (Java, Spring Boot, APIs, microsserviços) quanto com frontend moderno e mobile/híbrido (React, Next.js, React Native, Flutterflow). Dedico tempo a <strong>reforçar fundamentos de Ciência da Computação</strong>, entendendo realmente como sistemas funcionam — de concorrência e paralelismo a gerenciamento de memória, algoritmos e estruturas de dados — para aplicar conhecimento de forma prática e útil.
     </td>
   </tr>
-</table>
-
-
+</table> -->
+<!--
 <picture>
   <source media="(prefers-color-scheme: dark)"
           srcset="https://raw.githubusercontent.com/its-just-me-myself-and-i/its-just-me-myself-and-i--1/output/github-contribution-grid-snake-dark.svg">
@@ -58,7 +63,7 @@
   <img alt="github contribution snake"
        src="https://raw.githubusercontent.com/its-just-me-myself-and-i/its-just-me-myself-and-i--1/output/github-contribution-grid-snake.svg">
 </picture>
-
+-->
 <!-- ## Stack principal
 Java • Spring Boot • JPA/Hibernate • JavaScript/TypeScript • React • Next.js • Node.js • NestJS • React Native • Flutterflow • PostgreSQL • Docker • Git • Maven  
 
@@ -81,11 +86,7 @@ Java • Spring Boot • JPA/Hibernate • JavaScript/TypeScript • React • N
 
 **Certificação Profissional:**  
 Scrum Foundation Professional Certificate (SFPC) — Certiprof
-
-<!-- ![header](https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=140&width=1200&section=header&text=Diêgo%20Ferreira&fontSize=38&fontColor=D32F2F) -->
-| | |
-|---|---|
-| [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3800&pause=10&color=D32F2F&center=false&vCenter=false&multiline=true&width=460&height=120&lines=Java+%7C+Spring+Boot+%7C+APIs+Escaláveis;Back-end+first+mindset;Clean+Code+%7C+Arquitetura+%7C+Performance&lineHeight=32)](https://git.io/typing-svg) | <p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dbfcode&theme=github_dark" /></p> |-->
+-->
 
 
 
