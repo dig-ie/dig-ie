@@ -4,7 +4,7 @@
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbfcode&show_icons=true&theme=algolia)
+[![Anurag's GitHub stats](https://github-readme-stats-fork-fawn.vercel.app/api?username=dbfcode&theme=algolia&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </p>
 
